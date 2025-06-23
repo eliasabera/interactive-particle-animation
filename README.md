@@ -6,7 +6,7 @@ A fun and colorful particle animation using HTML5 Canvas and JavaScript. Particl
 
 👉 [View it on GitHub](https://eliasabera.github.io/interactive-particle-animation/)
 
-*(Make sure GitHub Pages is enabled in your repo settings)*
+
 
 ## ✨ Features
 
